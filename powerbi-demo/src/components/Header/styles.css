@@ -1,0 +1,9 @@
+.Header {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    text-align: center;
+    margin: 1rem;
+    padding: 1rem;
+    border-bottom-style: groove;
+    border-bottom-width: 1rem black;
+}
